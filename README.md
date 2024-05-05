@@ -23,7 +23,7 @@ This project builds a website for a fictional travel agency, Wonderlust, using H
 
 **Video Tutorial:**
 
-link will be added soon!
+[Watch Video Tutorial](https://www.youtube.com/watch?v=eMuq5jDr5UQ)
 
 **Let's Build Wonderlust!**
 
