@@ -2,6 +2,8 @@
 
 This project builds a website for a fictional travel agency, Wonderlust, using HTML and CSS. 
 
+![WonderLust Project Thumbnail](https://raw.githubusercontent.com/sajjadahmadi4/wonderlust/main/WonderLustThumbnail.jpg)
+
 **What's Included:**
 
 * HTML file: Structure the website's content.
